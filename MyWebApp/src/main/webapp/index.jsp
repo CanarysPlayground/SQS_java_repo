@@ -4,7 +4,7 @@
 <title>Some relevant title</title>
 </head>
 <body>
-<h2>We are creating testing SonarQube integration with GitHub Actions !!!!!!!!
+<h2>We are creating testing SonarQube integration with GitHub Actions !!!!!!!! Test
 </h2>
 </body>
 </html>
