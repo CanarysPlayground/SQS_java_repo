@@ -86,5 +86,5 @@ jobs:
           SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
         run: |
           mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar \
-            -Dsonar.projectKey=CanarysPlayground_SQS_java_repo_6792f98f-76e8-488c-bf3e-7224daa9f97f \
+            -Dsonar.projectKey=CanarysPlayground_SQS_java_repo_6f3c429e-7305-4adf-8f9b-75ca17b971dc \
             -Dsonar.projectName='SQS_java_repo'
